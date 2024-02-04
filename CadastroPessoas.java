@@ -68,7 +68,7 @@ public class CadastroPessoas {
 
         Pessoa pessoa = new Pessoa(nome, idade, cpf);
 
-        System.out.println(" Cadastro Realizado com Sucesso !!! ");
+        System.out.println(" finalizado  !!! ");
                 
     }
 
